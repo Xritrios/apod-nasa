@@ -1,0 +1,15 @@
+.container {
+	margin-top: 50px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.datePickerContainer {
+	margin-bottom: 50px;
+}
+
+.apodContainer {
+	margin-bottom: 50px;
+}
